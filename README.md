@@ -2,6 +2,12 @@
 
 A production-style React landing page for the Hack2skill / FIA hackathon assignment. The site is built from the supplied Figma reference and exported visual assets, with a dark futuristic visual system, interactive sections, responsive layouts, and accessible call-to-action flows.
 
+## Live Demo
+
+View the deployed project here:
+
+[https://hackpage-fia-h2s-frontend.vercel.app/](https://hackpage-fia-h2s-frontend.vercel.app/)
+
 ## Preview
 
 The page recreates the provided FIA design with:
@@ -13,6 +19,40 @@ The page recreates the provided FIA design with:
 - Drag/click schedule timeline
 - Challenge list, rewards, FAQ, and CTA sections
 - App-styled popup modal for Sign In, Register Now, and Apply Now actions
+
+## Screenshots
+
+### Hero
+
+![Hero section](docs/screenshots/live-hero.png)
+
+### About And Eligibility
+
+![About and eligibility sections](docs/screenshots/live-about.png)
+
+### Hackathon Overview
+
+![Hackathon overview section](docs/screenshots/live-overview.png)
+
+### Benefits
+
+![Benefits section with astronaut](docs/screenshots/live-benefits.png)
+
+### Participation Steps And Challenges
+
+![Participation steps and challenges](docs/screenshots/live-process-challenges.png)
+
+### Schedule And Rewards
+
+![Hackathon schedule and rewards](docs/screenshots/live-schedule-rewards.png)
+
+### FAQ
+
+![Frequently asked questions](docs/screenshots/live-faq.png)
+
+### CTA
+
+![Final call to action](docs/screenshots/live-cta.png)
 
 ## Tech Stack
 
